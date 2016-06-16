@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "jg-react:toggle"
   },
-  "repository": "https://github.com/atom/jg-react",
+  "repository": "https://github.com/reergymerej/jg-react",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
