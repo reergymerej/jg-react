@@ -2,7 +2,7 @@
   "name": "jg-react",
   "main": "./lib/jg-react",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "a simple package to see what it's like working with React in Atom",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "jg-react:toggle"
@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "babel-preset-react": "^6.5.0",
+    "moment": "^2.13.0",
     "react": "^15.1.0",
     "react-dom": "^15.1.0"
   }
