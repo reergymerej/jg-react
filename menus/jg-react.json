@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle jg-react",
+        "command": "jg-react:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "jg-react",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "jg-react:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

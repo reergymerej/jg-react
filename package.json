@@ -1,0 +1,18 @@
+{
+  "name": "jg-react",
+  "main": "./lib/jg-react",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "jg-react:toggle"
+  },
+  "repository": "https://github.com/atom/jg-react",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
